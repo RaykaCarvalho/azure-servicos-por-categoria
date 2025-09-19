@@ -1,0 +1,1 @@
+# azure-servicos-por-categoria
